@@ -12,4 +12,8 @@ public class HelloWorld {
     public void test90(){
 
     }
+
+    public void  test88(){
+
+    }
 }
